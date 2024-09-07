@@ -6,7 +6,7 @@
   <img src="horizontal-divider-gradient.gif" alt="Horizontal Divider" />
 </p>
 
-<h3 align="center">Just a coder who loves bringing ideas to life, one line at a time!</h3>
+<h3 align="center">My code is as unpredictable as a toddler's dance moves at a concert</h3>
 
 
 - 📫 How to reach me **pritamach.exe@gmail.com**
