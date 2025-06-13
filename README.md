@@ -1,6 +1,6 @@
 # H i ☘︎ T h e r e ! ☻  
 
-![Profile Banner](https://media.licdn.com/dms/image/v2/D5616AQHRWoGoaavmcA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733468665873?e=1747872000&v=beta&t=kb6uNLdrhQjFrptm7_1ffHU_ffU1SKxnCC0D4O2JZYw)
+![Profile Banner](https://media.licdn.com/dms/image/v2/D5616AQFvaRtQ-xvLvw/profile-displaybackgroundimage-shrink_350_1400/B56ZaE0hT2GQAc-/0/1745985083509?e=1755129600&v=beta&t=9W026zBT7Vb3q_zzyzxH5igDqWKJncJBYV_J22myV8g)
 
 **❆ ‎ A b o u t‎ ‎ ‎ M e ‎ ❆**  
 
