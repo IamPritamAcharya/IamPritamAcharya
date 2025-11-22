@@ -1,12 +1,12 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0e4429,50:006d32,100:26a641&text=H%20i%20%20☘︎%20T%20h%20e%20r%20e%20!%20☻&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0e4429,50:006d32,100:26a641&text=H%20i%20%20☘︎%20T%20h%20e%20r%20e%20!%20☻&fontSize=40&fontAlignY=40&animation=twinkling&fontColor=ffffff"/>
 </p>
 
 <h2 align="center">❆ A b o u t  M e ❆</h2>
 
 <p align="center">
-  I am a Flutter developer <br/>
+  I am a Flutter & Go developer <br/>
   <br/>
   I use Java for DSA <br/>
   <br/>
