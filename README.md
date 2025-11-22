@@ -1,6 +1,12 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0e4429,50:006d32,100:26a641&text=H%20i%20%20☘︎%20T%20h%20e%20r%20e%20!%20☻&fontSize=40&fontAlignY=40&animation=twinkling&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1ecb4f,50:18a44c,100:128d3d&text=H%20i%20%20☘︎%20T%20h%20e%20r%20e%20!%20☻&fontSize=40&fontAlignY=40&animation=twinkling&fontColor=ffffff"/>
+</p>
+
+<!-- New GIF added below -->
+<p align="center">
+  <img src="https://techcartoon.in/wp-content/uploads/2025/01/9.gif" height="160"/>
+  <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" height="160"/>
+  <img src="https://i.pinimg.com/originals/4d/b8/3e/4db83e362eb13a0f7c29513986c70603.gif" height="160"/>
 </p>
 
 <h2 align="center">❆ A b o u t  M e ❆</h2>
@@ -16,6 +22,7 @@
   <br/>
   I am also a Music lover 🎧 <br/>
 </p>
+
 <br/>
 <h2 align="center">🐇 T e c h  F r i e n d s 🐇</h2>
 
@@ -25,32 +32,38 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,git,docker,linux,postman" height="50"/>
 </p>
+
 <br/>
 <h2 align="center">⚔️ L e e t C o d e ⚔️</h2>
 
 <p align="center">
   <a href="https://leetcode.com/u/pritam_doesLC/">
-    <img src="https://img.shields.io/badge/Knight-%F0%9F%A6%84-0e4429?style=for-the-badge&logo=leetcode&logoColor=26a641&labelColor=000"/>
+    <img src="https://img.shields.io/badge/Knight-%F0%9F%A6%84-18a44c?style=for-the-badge&logo=leetcode&logoColor=ffffff&labelColor=000"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/Knight.gif" height="120"/>
+</p>
+
 <br/>
 <h2 align="center">◻️ S o c i a l s ◻️</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pritamacharya/">
-    <img src="https://img.shields.io/badge/LinkedIn-006d32?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1ecb4f?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/IamPritamAcharya">
-    <img src="https://img.shields.io/badge/GitHub-0e4429?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-128d3d?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/pritam.ach/">
-    <img src="https://img.shields.io/badge/Instagram-26a641?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-24d366?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/pritam_doesLC/">
-    <img src="https://img.shields.io/badge/LeetCode-39d353?style=for-the-badge&logo=leetcode&logoColor=000"/>
+    <img src="https://img.shields.io/badge/LeetCode-34e480?style=for-the-badge&logo=leetcode&logoColor=000"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0e4429,50:006d32,100:26a641&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1ecb4f,50:18a44c,100:128d3d&section=footer"/>
 </p>
