@@ -59,9 +59,6 @@
   <a href="https://www.instagram.com/pritam.ach/">
     <img src="https://img.shields.io/badge/Instagram-24d366?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/pritam_doesLC/">
-    <img src="https://img.shields.io/badge/LeetCode-34e480?style=for-the-badge&logo=leetcode&logoColor=000"/>
-  </a>
 </p>
 
 <p align="center">
