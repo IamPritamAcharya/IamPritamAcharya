@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1ecb4f,50:18a44c,100:128d3d&text=H%20i%20%20☘︎%20T%20h%20e%20r%20e%20!%20☻&fontSize=40&fontAlignY=40&animation=twinkling&fontColor=ffffff"/>
+  <img
+    src="https://drive.google.com/uc?export=view&id=1v9JHiCzhMs5HZ8T900chRlUwNjCtzgZA"
+    style="width:100%; height:auto; max-width:100%;"
+    alt="Embedded Image"
+  />
 </p>
+
 
 <!-- New GIF added below -->
 <p align="center">
