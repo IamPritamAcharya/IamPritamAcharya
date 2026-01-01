@@ -6,14 +6,6 @@
   />
 </p>
 
-
-<!-- New GIF added below -->
-<p align="center">
-  <img src="https://techcartoon.in/wp-content/uploads/2025/01/9.gif" height="160"/>
-  <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" height="160"/>
-  <img src="https://i.pinimg.com/originals/4d/b8/3e/4db83e362eb13a0f7c29513986c70603.gif" height="160"/>
-</p>
-
 <h2 align="center">❆ A b o u t  M e ❆</h2>
 
 <p align="center">
@@ -65,6 +57,15 @@
     <img src="https://img.shields.io/badge/Instagram-24d366?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
+
+<!-- New GIF added below -->
+<p align="center">
+  <img src="https://techcartoon.in/wp-content/uploads/2025/01/9.gif" height="160"/>
+  <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" height="160"/>
+  <img src="https://i.pinimg.com/originals/4d/b8/3e/4db83e362eb13a0f7c29513986c70603.gif" height="160"/>
+</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1ecb4f,50:18a44c,100:128d3d&section=footer"/>
