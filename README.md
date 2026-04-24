@@ -35,13 +35,11 @@
 <h2 align="center">⚔️ L e e t C o d e ⚔️</h2>
 
 <p align="center">
-  <a href="https://leetcode.com/u/pritam_doesLC/">
-    <img src="https://img.shields.io/badge/Knight-%F0%9F%A6%84-18a44c?style=for-the-badge&logo=leetcode&logoColor=ffffff&labelColor=000"/>
-  </a>
+  <img src="https://img.shields.io/badge/Guardian-%F0%9F%9B%A1%EF%B8%8F-0d3b66?style=for-the-badge&logo=leetcode&logoColor=ffffff&labelColor=000"/>
 </p>
 
 <p align="center">
-  <img src="https://assets.leetcode.com/static_assets/others/Knight.gif" height="120"/>
+  <img src="https://assets.leetcode.com/static_assets/others/Guardian.gif" height="120"/>
 </p>
 
 <br/>
