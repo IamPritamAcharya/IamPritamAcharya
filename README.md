@@ -9,25 +9,49 @@
 <h2 align="center">❆ A b o u t  M e ❆</h2>
 
 <p align="center">
-  I am a Flutter, Go & Java (Spring Boot) developer <br/>
+  I am a Software Engineer & Full Stack Developer<br/>
   <br/>
-  I admire simple and clean architecture <br/>
+  I build backend systems, distributed applications & other complicated things<br/>
   <br/>
-  I enjoy coding ( I think ) <br/>
+  I admire simple and clean architecture<br/>
   <br/>
-  I am also a Music lover 🎧 <br/>
+  I enjoy coding ( I think )<br/>
+  <br/>
+  I am also a Music lover 🎧
 </p>
 
 <br/>
 
 <h2 align="center">🐇 T e c h  F r i e n d s 🐇</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,java,spring,python,go" height="50"/>
-</p>
+<!-- Languages -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,redis,git,docker,linux,postman" height="50"/>
+  <img src="https://skillicons.dev/icons?i=typescript,java,go,python,dart" height="50"/>
+</p>
+
+<!-- Frameworks & APIs -->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nestjs,nextjs,spring,flutter" height="50"/>
+</p>
+
+<!-- Backend & Systems -->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prisma,redis,rabbitmq" height="50"/>
+</p>
+
+<!-- Databases & Cloud -->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,aws,gcp" height="50"/>
+</p>
+
+<!-- Tools -->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,githubactions,docker,sentry,postman,linux,terraform" height="50"/>
 </p>
 
 <br/>
@@ -58,7 +82,6 @@
   </a>
 </p>
 
-<!-- New GIF added below -->
 <p align="center">
   <img src="https://techcartoon.in/wp-content/uploads/2025/01/9.gif" height="160"/>
   <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" height="160"/>
