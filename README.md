@@ -75,10 +75,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-1ecb4f?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/IamPritamAcharya">
-    <img src="https://img.shields.io/badge/GitHub-128d3d?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-1ecb4f?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/pritam.ach/">
-    <img src="https://img.shields.io/badge/Instagram-24d366?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-1ecb4f?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/696411743894896650">
+    <img src="https://img.shields.io/badge/Discord-1ecb4f?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
 
