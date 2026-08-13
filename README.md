@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/IamPritamAcharya/IamPritamAcharya/main/banner.png"
+    src="./banner.png"
     style="width:100%; height:auto; max-width:100%;"
     alt="Banner"
   />
